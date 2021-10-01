@@ -30,6 +30,8 @@ I am a software development student.
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="Ruby" width="60" height="60"/>
 </div>
 
+---
+
 🧰 Frameworks/Libraries
 
 <div style="display:inline;">
@@ -38,6 +40,7 @@ I am a software development student.
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Bootstrap" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60"/>  
 </div>
+
 ---
 
 🖥 📱You can find me on:
