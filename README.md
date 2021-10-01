@@ -55,4 +55,4 @@ I am a software development student.
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codehunt101&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codehunt101 Github Status](https://github-readme-stats.vercel.app/api?username=codehunt101&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![codehunt101 Github Status](https://github-readme-stats.vercel.app/api?username=codehunt101&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
