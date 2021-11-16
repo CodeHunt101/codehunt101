@@ -44,11 +44,3 @@ I am a software development student.
 <a href="https://www.linkedin.com/in/harold-torres-marino/" rel="nofollow"><img alt="https://www.linkedin.com/in/harold-torres-marino/" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://twitter.com/CodeHunt101" rel="nofollow"><img alt="Twitter @codehunt101" align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
 <a href="https://haroldtm55.medium.com/" rel="nofollow"><img alt="Medium @haroldtm55" align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-
----
-
-## &#x1f4c8; My Github Status
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codehunt101&exclude_repo=world-top-movies,mini-project-rails-app,top-movies-web-scraping-project-phase-3&hide=shell&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![codehunt101 Github Status](https://github-readme-stats.vercel.app/api?username=codehunt101&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
