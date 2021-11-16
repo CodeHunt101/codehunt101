@@ -49,6 +49,6 @@ I am a software development student.
 
 ## &#x1f4c8; My Github Status
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codehunt101&exclude_repo=socceristic-project-phase-1,world-top-movies,mini-project-rails-app,top-movies-web-scraping-project-phase-3&hide=shell&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codehunt101&exclude_repo=world-top-movies,mini-project-rails-app,top-movies-web-scraping-project-phase-3&hide=shell&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![codehunt101 Github Status](https://github-readme-stats.vercel.app/api?username=codehunt101&theme=default)](https://github.com/anuraghazra/github-readme-stats) -->
