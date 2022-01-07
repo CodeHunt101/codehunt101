@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-I am a software development student.
+I'm simply in love with software development.
 
 ---
 
