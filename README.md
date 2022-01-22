@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-I'm simply in love with software development.
+I'm a full-stack software engineer specialised in web development.
 
 ---
 
