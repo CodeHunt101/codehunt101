@@ -43,5 +43,5 @@ I'm a full-stack software engineer specialising in web development.
 🖥 📱You can find me on:
 
 <a href="https://www.linkedin.com/in/harold-torres-marino/" rel="nofollow"><img alt="https://www.linkedin.com/in/harold-torres-marino/" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://twitter.com/CodeHunt101" rel="nofollow"><img alt="Twitter @codehunt101" align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
 <a href="https://haroldtm55.medium.com/" rel="nofollow"><img alt="Medium @haroldtm55" align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://twitter.com/CodeHunt101" rel="nofollow"><img alt="Twitter @codehunt101" align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
