@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-I'm a full-stack software engineer specialising in web development.
+I'm a software developer working for a consultancy.
 
 ---
 
