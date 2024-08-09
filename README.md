@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-I'm a software developer working for a consultancy.
+I'm a frontend developer working for a consultancy.
 
 ---
 
