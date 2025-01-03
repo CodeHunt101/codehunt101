@@ -5,7 +5,7 @@
 </div>
 
 ## 👨‍💻 About Me
-Frontend Developer passionate about creating intuitive and performant web applications. Currently working at a consultancy.
+I'm a frontend Developer passionate about creating intuitive and performant web applications. Currently working at a consultancy.
 
 ## 🛠️ Tech Stack
 <details open>
