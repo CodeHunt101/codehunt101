@@ -24,7 +24,7 @@
 
 I'm a full-stack, frontend-leaning Software Engineer with a focus on **building intuitive, performant, and accessible web experiences**. I currently work at a Digital Transformation and UX Agency, where I translate complex design systems and business requirements into polished, production-ready interfaces.
 
-I care about the intersection of **developer experience and user experience**, writing code that's clean and maintainable while ensuring the end product feels effortless to use. I'm up to challenging UI problems: data visualisation, accessibility, and component architecture.
+I care about the intersection of **developer experience and user experience**, writing code that's clean and maintainable while ensuring the end product feels effortless to use. I like tackling challenging problems: data visualisation, accessibility, component architecture, AI integrations and so forth.
 
 Currently exploring: AI-powered web applications, and modern full-stack or front-end patterns.
 
