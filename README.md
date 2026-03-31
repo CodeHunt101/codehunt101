@@ -128,9 +128,9 @@ Responsive React and Next.js experience with smooth motion, accessibility consid
 
 ---
 
-### 🧠 [OpenAI Models](https://github.com/CodeHunt101/openai-models)
+### 🧠 [AI Models](https://github.com/CodeHunt101/openai-models)
 Full-stack OpenAI product prototype with private demo access and a public repository for the engineering implementation.
-`JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS` `Auth0` `Node.js` `CI/CD` `Docker`
+`JavaScript` `TypeScript` `React.js` `Next.js` `Tailwind CSS` `Auth0` `Node.js` `CI/CD` `Docker` `Deepseek API` `OpenAI API`
 
 ---
 
