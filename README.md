@@ -110,6 +110,12 @@ Collaborated in an agile team to build Lexicon's latest website, developing UI c
 
 > More detail and live previews at [haroldtorres.dev/projects](https://haroldtorres.dev/projects)
 
+### 🤖 [PlotlineAI](https://github.com/CodeHunt101/plotline-ai)
+Movie recommendation product that blends AI-assisted discovery with collaborative filtering in a group-friendly interface.
+`JavaScript` `TypeScript` `React.js` `Next.js` `Supabase` `OpenAI API` `Tailwind CSS` `Cloudflare Workers`
+
+---
+
 ### ☕ [Beanly Coffee](https://github.com/CodeHunt101/beanly-coffee)
 Accessible coffee subscription experience focused on performance, conversion clarity, and polished frontend execution.
 `JavaScript` `TypeScript` `React.js` `Next.js` `CSS` `SCSS` `HTML` `Jest` `Husky`
@@ -119,12 +125,6 @@ Accessible coffee subscription experience focused on performance, conversion cla
 ### 🌌 [Space Travel](https://github.com/CodeHunt101/space-travel)
 Responsive React and Next.js experience with smooth motion, accessibility considerations, and editorial-style storytelling.
 `JavaScript` `TypeScript` `React.js` `Next.js` `CSS` `SCSS` `HTML` `Jest`
-
----
-
-### 🤖 [PlotlineAI](https://github.com/CodeHunt101/plotline-ai)
-Movie recommendation product that blends AI-assisted discovery with collaborative filtering in a group-friendly interface.
-`JavaScript` `TypeScript` `React.js` `Next.js` `Supabase` `OpenAI API` `Tailwind CSS` `Cloudflare Workers`
 
 ---
 
