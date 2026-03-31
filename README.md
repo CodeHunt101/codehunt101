@@ -112,7 +112,7 @@ Collaborated in an agile team to build Lexicon's latest website, developing UI c
 
 ### 🤖 [PlotlineAI](https://github.com/CodeHunt101/plotline-ai)
 Movie recommendation product that blends AI-assisted discovery with collaborative filtering in a group-friendly interface.
-`JavaScript` `TypeScript` `React.js` `Next.js` `Supabase` `OpenAI API` `Tailwind CSS` `Cloudflare Workers`
+`JavaScript` `TypeScript` `React.js` `Next.js` `Supabase` `Natural language & Embedding AI models` `Vercel AI SDK` `Cloudflare Workers` `Cloudflare Gateway` `Tailwind CSS`
 
 ---
 
